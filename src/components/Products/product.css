@@ -1,0 +1,16 @@
+.heading {
+    text-align: center;
+}
+/* 
+.cards {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+  } */
+
+
+.qty {
+    text-align: center;
+    flex-direction: row;
+}
